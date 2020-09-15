@@ -1,0 +1,2 @@
+void maze_solve();
+
